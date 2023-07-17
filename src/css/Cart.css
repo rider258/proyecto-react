@@ -1,0 +1,27 @@
+.cart-render {
+    font-size: 1rem;
+    margin-right: 5%;
+}
+
+.bi-cart4 {
+    color: grey;
+    height: 1em;
+    cursor: pointer;
+    transition: all .5s;
+    margin-right: 5%;
+    font-size: 2rem;
+}
+.bi-cart4:hover {
+    color: #ae77f8;
+
+}
+.enlace{
+    background-color: rgb(53, 53, 53);
+    color: greenyellow;
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    width: 50px;
+    border-radius: 5px;
+    transition: all 2s;
+}
