@@ -4,191 +4,212 @@
         "id": 1,
         "titulo": "Benchi Blanco",
         "imagen": "../src/img/modelos/barquitoBlanco.jpg",
-        "precio": "$: 2",
+        "precio": 2,
         "material": "Filamento PLA",
         "descripcion": "Barquito de prueba Benchi",
-        "categoria": "modelos"
+        "categoria": "modelos",
+        "stock": "10"
     },
 
     {
         "id": 2,
         "titulo": "Champinion",
         "imagen": "../src/img/modelos/champinon.jpg",
-        "precio": "$: 7",
+        "precio": 7,
         "material": "Filamento PLA",
         "descripcion": "Champinion pintado a mano",
-        "categoria": "modelos"
+        "categoria": "modelos",
+        "stock": "10"
     },
     {
         "id": 3,
         "titulo": "Cohete",
         "imagen": "../src/img/modelos/cohete.jpg",
-        "precio": "$: 4",
+        "precio": 4,
         "material": "Filamento PLA",
         "descripcion": "Cohete de la nasa",
-        "categoria": "modelos"
+        "categoria": "modelos",
+        "stock": "10"
     },
     {
         "id": 4,
         "titulo": "Máscara",
         "imagen": "../src/img/modelos/coronaVirus.jpg",
-        "precio": "$: 14",
+        "precio": 14,
         "material": "Filamento PLA",
         "descripcion": "Máscara para protección",
-        "categoria": "modelos"
+        "categoria": "modelos",
+        "stock": "10"
     },
     {
         "id": 5,
         "titulo": "Cubos",
         "imagen": "../src/img/modelos/cubos.jpg",
-        "precio": "$: 2",
+        "precio": 2,
         "material": "Filamento PLA",
         "descripcion": "Cubos decorativos",
-        "categoria": "modelos"
+        "categoria": "modelos",
+        "stock": "10"
     },
     {
         "id": 6,
         "titulo": "Esfera blanca",
         "imagen": "../src/img/modelos/esferaBlanca.jpg",
-        "precio": "$: 7",
+        "precio": 7,
         "material": "Filamento PLA",
         "descripcion": "Esfera decorativa de color blanco",
-        "categoria": "modelos"
+        "categoria": "modelos",
+        "stock": "10"
     },
     {
         "id": 7,
         "titulo": "Esfera Dorada",
         "imagen": "../src/img/modelos/esferaDorada.jpg",
-        "precio": "$: 12",
+        "precio": 12,
         "material": "Filamento PLA",
         "descripcion": "Esfera decorativa de color dorado",
-        "categoria": "modelos"
+        "categoria": "modelos",
+        "stock": "10"
     },
     {
         "id": 8,
         "titulo": "Mano robótica pequeña",
         "imagen": "../src/img/modelos/manoUno.jpg",
-        "precio": "$: 30",
+        "precio": 30,
         "material": "Filamento PLA",
         "descripcion": "Mano robótica para proyecto escolar",
-        "categoria": "modelos"
+        "categoria": "modelos",
+        "stock": "10"
     },
     {
         "id": 9,
         "titulo": "Mano robótica grande",
         "imagen": "../src/img/modelos/manoDos.jpg",
-        "precio": "$: 42",
+        "precio": 42,
         "material": "Filamento PLA",
         "descripcion": "Mano robótica para proyecto escolar",
-        "categoria": "modelos"
+        "categoria": "modelos",
+        "stock": "10"
     },
     {
         "id": 10,
         "titulo": "Robot pequeño",
         "imagen": "../src/img/modelos/robotUno.jpg",
-        "precio": "$: 12",
+        "precio": 12,
         "material": "Filamento PLA",
         "descripcion": "Robot con partes móviles",
-        "categoria": "modelos"
+        "categoria": "modelos",
+        "stock": "10"
     },
     {
         "id": 11,
         "titulo": "Robot mediano",
         "imagen": "../src/img/modelos/robotDos.jpg",
-        "precio": "$: 22",
+        "precio": 22,
         "material": "Filamento PLA",
         "descripcion": "Robot con partes móviles",
-        "categoria": "modelos"
+        "categoria": "modelos",
+        "stock": "10"
     },
     {
         "id": 12,
         "titulo": "Robot grande",
         "imagen": "../src/img/modelos/robotTres.jpg",
-        "precio": "$: 32",
+        "precio": 32,
         "material": "Filamento PLA",
         "descripcion": "Robot con partes móviles",
-        "categoria": "modelos"
+        "categoria": "modelos",
+        "stock": "10"
     },
     {
         "id": 13,
         "titulo": "Filamento PLA",
         "imagen": "../src/img/modelos/robotTres.jpg",
-        "precio": "$: 32",
+        "precio": 32,
         "material": "Filamento PLA",
         "descripcion": "Material muy facil de imprimir, no requiere altas temperaturas para su impresion",
-        "categoria": "filamentos"
+        "categoria": "filamentos",
+        "stock": "10"
     },
     {
         "id": 14,
         "titulo": "Filamento ABS",
         "imagen": "../src/img/filamentos/abs.jpeg",
-        "precio": "$: 60",
+        "precio": 60,
         "material": "Filamento ABS",
         "descripcion": "Material muy resistente al calor y la humedad, poca resistencia a los golpes",
-        "categoria": "filamentos"
+        "categoria": "filamentos",
+        "stock": "10"
     },
     {
         "id": 15,
         "titulo": "Filamento TPU",
         "imagen": "../src/img/filamentos/tpu.png",
-        "precio": "$: 40",
+        "precio": 40,
         "material": "Filamento TPU",
         "descripcion": "Filamento de tipo flexible de alta resistencia a los golpes",
-        "categoria": "filamentos"
+        "categoria": "filamentos",
+        "stock": "10"
     },
     {
         "id": 16,
         "titulo": "Impresora PRUSA",
         "imagen": "../src/img/impresoras/1.png",
-        "precio": "$: 500",
+        "precio": 500,
         "material": "ABS, PLA, TPU",
         "descripcion": "Especial para trabajo pesado, resistencia en sus en sus componentes",
-        "categoria": "impresoras"
+        "categoria": "impresoras",
+        "stock": "10"
     },
     {
         "id": 17,
         "titulo": "Impresora JGAURORA",
         "imagen": "../src/img/impresoras/2.jpg",
-        "precio": "$: 540",
+        "precio": 540,
         "material": "ABS, PLA, TPU",
         "descripcion": "Especial para trabajo pesado, resistencia en sus en sus componentes",
-        "categoria": "impresoras"
+        "categoria": "impresoras",
+        "stock": "10"
     },
     {
         "id": 18,
         "titulo": "Impresora ENDER 5",
         "imagen": "../src/img/impresoras/3.jpg",
-        "precio": "$: 640",
+        "precio": 640,
         "material": "ABS, PLA, TPU",
         "descripcion": "Especial para trabajo pesado, resistencia en sus en sus componentes",
-        "categoria": "impresoras"
+        "categoria": "impresoras",
+        "stock": "10"
     },
     {
         "id": 19,
         "titulo": "Impresora MAKERBOX",
         "imagen": "../src/img/impresoras/4.jpg",
-        "precio": "$: 840",
+        "precio": 840,
         "material": "ABS, PLA, TPU",
         "descripcion": "Especial para trabajo pesado, resistencia en sus en sus componentes",
-        "categoria": "impresoras"
+        "categoria": "impresoras",
+        "stock": "10"
     },
     {
         "id": 20,
         "titulo": "Impresora ENDER 3",
         "imagen": "../src/img/impresoras/5.jpg",
-        "precio": "$: 300",
+        "precio": 300,
         "material": "ABS, PLA, TPU",
         "descripcion": "Especial para trabajo pesado, resistencia en sus en sus componentes",
-        "categoria": "impresoras"
+        "categoria": "impresoras",
+        "stock": "10"
     },
     {
         "id": 21,
         "titulo": "Impresora ENDER S1",
         "imagen": "../src/img/impresoras/6.jpg",
-        "precio": "$: 600",
+        "precio": 600,
         "material": "ABS, PLA, TPU",
         "descripcion": "Especial para trabajo pesado, resistencia en sus en sus componentes",
-        "categoria": "impresoras"
+        "categoria": "impresoras",
+        "stock": "10"
     }
     
 ]

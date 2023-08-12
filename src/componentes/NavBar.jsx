@@ -10,12 +10,14 @@ const NavBar = () => {
         <nav className='navBar'>
             <Link to="/" className="logo">3D Tienda</Link>
             <ul className="menu">
-                <li><Link  to="/" className="menu-link">Inicio</Link></li>
-                <li><Link  to="/productos" className="menu-link">Productos</Link></li>
-                <li><Link  to="/productos/modelos" className="menu-link">Modelos</Link></li>
-                <li><Link  to="/productos/filamentos" className="menu-link">Filamentos</Link></li>
-                <li><Link  to="/productos/impresoras" className="menu-link">Impresoras</Link></li>
-
+                <li><Link className="menu-link" to="/" >Inicio</Link></li>
+                <li><Link className="menu-link" to="/productos" >Productos</Link></li>
+                <li><Link className="menu-link" to="/productos/modelos" >Modelos</Link></li>
+                <li><Link className="menu-link" to="/productos/filamentos" >Filamentos</Link></li>
+                <li><Link className="menu-link" to="/productos/impresoras" >Impresoras</Link></li>
+                <li><Link className="menu-link" to="/nosotros" >Nosotros</Link></li>
+                <li><Link className="menu-link" to="/contacto" >Contacto</Link></li>
+                
             </ul>
 
             <CartWidget />
